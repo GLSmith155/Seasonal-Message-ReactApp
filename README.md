@@ -1,2 +1,2 @@
 # Weather-Message-ReactApp
-A React App that detects latitude of the user and the month, and based on that they are greeted with a seasonally relevant message.
+A React App that detects latitude of the user as well as the month, and based on that info they are greeted with a seasonally relevant message.
